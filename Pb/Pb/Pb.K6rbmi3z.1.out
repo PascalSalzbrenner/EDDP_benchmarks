@@ -1,0 +1,45 @@
+
+ training:  training RMSE/MAE:               8.34     3.54 meV Spearman : 0.99992 Max :     102.46 meV for Pb-220182-5994-5
+          ( training RMSE/MAE:               0.04     0.02  eV Spearman : 0.99999 Max :       0.61  eV for Pb-220182-5994-5 )
+
+ validation:validation RMSE/MAE:             9.83     4.07 meV Spearman : 0.99988 Max :      87.88 meV for Pb-229911-3822-8
+          ( validation RMSE/MAE:             0.05     0.02  eV Spearman : 0.99998 Max :       0.53  eV for Pb-229911-3822-8 )
+
+ testing:   testing RMSE/MAE:               12.98     3.96 meV Spearman : 0.99991 Max :     233.56 meV for Pb-135265-805-15
+          ( testing RMSE/MAE:                0.07     0.02  eV Spearman : 0.99998 Max :       1.17  eV for Pb-135265-805-15 )
+
+ training:  training RMSE/MAE:               9.36     3.56 meV Spearman : 0.99989 Max :     111.19 meV for Pb-192485-5037-7
+          ( training RMSE/MAE:               0.05     0.02  eV Spearman : 0.99999 Max :       0.67  eV for Pb-192485-5037-7 )
+
+ validation:validation RMSE/MAE:            11.78     4.47 meV Spearman : 0.99984 Max :      87.64 meV for Pb-229911-3822-8
+          ( validation RMSE/MAE:             0.06     0.02  eV Spearman : 0.99997 Max :       0.53  eV for Pb-229911-3822-8 )
+
+ testing:   testing RMSE/MAE:               12.93     4.30 meV Spearman : 0.99984 Max :     181.91 meV for Pb-135265-805-15
+          ( testing RMSE/MAE:                0.07     0.02  eV Spearman : 0.99997 Max :       0.91  eV for Pb-135265-805-15 )
+
+ training:  training RMSE/MAE:               8.60     3.63 meV Spearman : 0.99988 Max :     116.60 meV for Pb-15797-4559-16
+          ( training RMSE/MAE:               0.04     0.02  eV Spearman : 0.99999 Max :       0.70  eV for Pb-15797-4559-16 )
+
+ validation:validation RMSE/MAE:            10.30     4.04 meV Spearman : 0.99985 Max :     129.53 meV for Pb-159904-8145-14
+          ( validation RMSE/MAE:             0.06     0.02  eV Spearman : 0.99997 Max :       0.78  eV for Pb-159904-8145-14 )
+
+ testing:   testing RMSE/MAE:               11.88     4.28 meV Spearman : 0.99983 Max :     142.02 meV for Pb-284384-7348-19
+          ( testing RMSE/MAE:                0.06     0.02  eV Spearman : 0.99997 Max :       0.85  eV for Pb-284384-7348-19 )
+
+ training:  training RMSE/MAE:              45.36     9.62 meV Spearman : 0.99978 Max :    1298.32 meV for Pb-158058-2474-15
+          ( training RMSE/MAE:               0.23     0.05  eV Spearman : 0.99997 Max :       7.79  eV for Pb-158058-2474-15 )
+
+ validation:validation RMSE/MAE:            34.23     8.29 meV Spearman : 0.99977 Max :     548.19 meV for Pb-15799-9914-9
+          ( validation RMSE/MAE:             0.18     0.04  eV Spearman : 0.99996 Max :       2.74  eV for Pb-15799-9914-9 )
+
+ testing:   testing RMSE/MAE:               56.98    12.02 meV Spearman : 0.99976 Max :    1082.66 meV for Pb-135265-805-15
+          ( testing RMSE/MAE:                0.28     0.06  eV Spearman : 0.99996 Max :       5.41  eV for Pb-135265-805-15 )
+
+ training:  training RMSE/MAE:              10.06     3.79 meV Spearman : 0.99992 Max :     142.15 meV for Pb-273537-4523-3
+          ( training RMSE/MAE:               0.05     0.02  eV Spearman : 0.99999 Max :       0.71  eV for Pb-273537-4523-3 )
+
+ validation:validation RMSE/MAE:            10.47     3.86 meV Spearman : 0.99988 Max :     152.59 meV for Pb-15799-9914-9
+          ( validation RMSE/MAE:             0.05     0.02  eV Spearman : 0.99998 Max :       0.76  eV for Pb-15799-9914-9 )
+
+ testing:   testing RMSE/MAE:               11.96     4.26 meV Spearman : 0.99990 Max :     134.66 meV for Pb-8786-8396-3
+          ( testing RMSE/MAE:                0.06     0.02  eV Spearman : 0.99998 Max :       0.54  eV for Pb-8786-8396-3 )

@@ -1,0 +1,324 @@
+
+ training:  training RMSE/MAE:             376.43   235.81 meV Spearman : 0.89675 Max :    3624.31 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.56  eV Spearman : 0.89707 Max :      43.49  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.11   228.03 meV Spearman : 0.90276 Max :    2338.97 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90292 Max :      28.07  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.53   222.99 meV Spearman : 0.91617 Max :    1824.74 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.39  eV Spearman : 0.91653 Max :      21.90  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.33   235.69 meV Spearman : 0.89716 Max :    3574.52 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89748 Max :      42.89  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.24   227.86 meV Spearman : 0.90307 Max :    2341.46 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90323 Max :      28.10  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              347.94   222.80 meV Spearman : 0.91627 Max :    1813.10 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91663 Max :      21.76  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.31   235.78 meV Spearman : 0.89718 Max :    3590.32 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89751 Max :      43.08  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.39   227.88 meV Spearman : 0.90323 Max :    2340.61 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90339 Max :      28.09  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.51   223.12 meV Spearman : 0.91624 Max :    1810.29 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.39  eV Spearman : 0.91660 Max :      21.72  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.23   235.76 meV Spearman : 0.89690 Max :    3541.95 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89722 Max :      42.50  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.89   228.10 meV Spearman : 0.90316 Max :    2360.31 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90332 Max :      28.32  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.49   223.00 meV Spearman : 0.91635 Max :    1806.11 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91672 Max :      21.67  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.26   235.78 meV Spearman : 0.89672 Max :    3561.83 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.56  eV Spearman : 0.89704 Max :      42.74  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.49   228.06 meV Spearman : 0.90313 Max :    2334.29 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90329 Max :      28.01  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.14   222.81 meV Spearman : 0.91617 Max :    1826.66 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91654 Max :      21.92  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.08   235.72 meV Spearman : 0.89669 Max :    3557.16 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89701 Max :      42.69  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.55   228.17 meV Spearman : 0.90301 Max :    2354.67 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90316 Max :      28.26  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.01   222.88 meV Spearman : 0.91607 Max :    1803.91 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91644 Max :      21.65  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.09   235.68 meV Spearman : 0.89689 Max :    3539.06 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89722 Max :      42.47  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.38   227.96 meV Spearman : 0.90309 Max :    2340.52 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90325 Max :      28.09  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.45   222.83 meV Spearman : 0.91638 Max :    1816.30 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91674 Max :      21.80  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.13   235.65 meV Spearman : 0.89698 Max :    3562.23 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89731 Max :      42.75  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.26   227.89 meV Spearman : 0.90316 Max :    2340.40 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90332 Max :      28.08  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.09   222.67 meV Spearman : 0.91629 Max :    1819.70 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91666 Max :      21.84  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.06   235.88 meV Spearman : 0.89663 Max :    3569.30 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.56  eV Spearman : 0.89696 Max :      42.83  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.33   228.29 meV Spearman : 0.90229 Max :    2360.10 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90244 Max :      28.32  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.13   222.85 meV Spearman : 0.91601 Max :    1825.09 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91637 Max :      21.90  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.17   235.70 meV Spearman : 0.89701 Max :    3528.65 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89733 Max :      42.34  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.56   228.05 meV Spearman : 0.90316 Max :    2349.47 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90331 Max :      28.19  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.25   222.74 meV Spearman : 0.91640 Max :    1815.71 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91676 Max :      21.79  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.32   235.77 meV Spearman : 0.89657 Max :    3581.84 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.56  eV Spearman : 0.89690 Max :      42.98  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.20   227.98 meV Spearman : 0.90285 Max :    2355.36 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90300 Max :      28.26  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.00   222.75 meV Spearman : 0.91589 Max :    1811.24 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91626 Max :      21.73  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.11   235.72 meV Spearman : 0.89690 Max :    3556.50 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89723 Max :      42.68  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.34   228.01 meV Spearman : 0.90315 Max :    2344.39 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90331 Max :      28.13  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.35   222.90 meV Spearman : 0.91625 Max :    1819.22 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91662 Max :      21.83  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             375.94   235.65 meV Spearman : 0.89702 Max :    3553.39 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89735 Max :      42.64  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.57   228.06 meV Spearman : 0.90307 Max :    2352.24 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90323 Max :      28.23  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.01   222.85 meV Spearman : 0.91638 Max :    1814.47 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91674 Max :      21.77  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.03   235.62 meV Spearman : 0.89718 Max :    3566.10 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89751 Max :      42.79  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.33   228.04 meV Spearman : 0.90311 Max :    2338.86 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90327 Max :      28.07  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.38   222.90 meV Spearman : 0.91644 Max :    1814.51 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91681 Max :      21.77  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.36   235.70 meV Spearman : 0.89684 Max :    3581.36 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89717 Max :      42.98  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.55   228.06 meV Spearman : 0.90326 Max :    2344.38 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90341 Max :      28.13  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.29   222.64 meV Spearman : 0.91658 Max :    1816.93 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91695 Max :      21.80  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.38   235.76 meV Spearman : 0.89717 Max :    3543.30 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89750 Max :      42.52  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.78   227.97 meV Spearman : 0.90321 Max :    2341.25 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90337 Max :      28.09  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.76   222.83 meV Spearman : 0.91647 Max :    1821.45 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91684 Max :      21.86  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.22   235.70 meV Spearman : 0.89687 Max :    3534.67 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89721 Max :      42.42  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.96   228.09 meV Spearman : 0.90311 Max :    2355.96 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90327 Max :      28.27  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.54   222.87 meV Spearman : 0.91631 Max :    1816.12 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91667 Max :      21.79  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.20   235.67 meV Spearman : 0.89702 Max :    3551.68 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89735 Max :      42.62  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.88   228.11 meV Spearman : 0.90315 Max :    2348.83 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90330 Max :      28.19  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.44   222.84 meV Spearman : 0.91645 Max :    1818.15 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91682 Max :      21.82  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.16   235.65 meV Spearman : 0.89718 Max :    3553.28 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89751 Max :      42.64  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.69   227.92 meV Spearman : 0.90337 Max :    2342.28 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90352 Max :      28.11  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.48   222.93 meV Spearman : 0.91654 Max :    1815.08 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91691 Max :      21.78  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             375.96   235.66 meV Spearman : 0.89713 Max :    3552.61 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89746 Max :      42.63  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.49   228.01 meV Spearman : 0.90292 Max :    2351.59 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90308 Max :      28.22  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              347.85   222.70 meV Spearman : 0.91630 Max :    1809.57 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91666 Max :      21.71  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.19   235.74 meV Spearman : 0.89697 Max :    3540.11 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89730 Max :      42.48  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.53   227.87 meV Spearman : 0.90308 Max :    2359.33 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90324 Max :      28.31  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              347.94   222.69 meV Spearman : 0.91632 Max :    1822.82 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91668 Max :      21.87  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.30   235.71 meV Spearman : 0.89696 Max :    3546.27 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89730 Max :      42.56  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.67   227.92 meV Spearman : 0.90300 Max :    2351.60 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90316 Max :      28.22  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.30   222.72 meV Spearman : 0.91637 Max :    1820.71 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91673 Max :      21.85  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.18   235.71 meV Spearman : 0.89703 Max :    3532.61 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89736 Max :      42.39  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.60   228.00 meV Spearman : 0.90309 Max :    2344.47 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90325 Max :      28.13  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.20   222.76 meV Spearman : 0.91637 Max :    1814.36 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91673 Max :      21.77  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             375.56   235.65 meV Spearman : 0.89671 Max :    3536.00 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89704 Max :      42.43  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           351.91   228.02 meV Spearman : 0.90285 Max :    2341.34 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90301 Max :      28.10  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              347.58   222.92 meV Spearman : 0.91607 Max :    1809.44 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.39  eV Spearman : 0.91643 Max :      21.71  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.37   235.66 meV Spearman : 0.89689 Max :    3515.01 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89722 Max :      42.18  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.68   227.83 meV Spearman : 0.90316 Max :    2361.16 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90332 Max :      28.33  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.07   222.35 meV Spearman : 0.91635 Max :    1831.07 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91672 Max :      21.97  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.13   235.64 meV Spearman : 0.89715 Max :    3539.75 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89749 Max :      42.48  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.91   228.11 meV Spearman : 0.90332 Max :    2352.92 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90348 Max :      28.24  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.37   222.84 meV Spearman : 0.91647 Max :    1814.28 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91683 Max :      21.77  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.13   235.64 meV Spearman : 0.89693 Max :    3549.57 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89726 Max :      42.59  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.63   228.04 meV Spearman : 0.90312 Max :    2346.80 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90328 Max :      28.16  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.15   222.84 meV Spearman : 0.91631 Max :    1813.53 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91668 Max :      21.76  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.54   235.71 meV Spearman : 0.89701 Max :    3575.35 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89734 Max :      42.90  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.92   228.01 meV Spearman : 0.90301 Max :    2357.61 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90316 Max :      28.29  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.43   222.72 meV Spearman : 0.91640 Max :    1819.25 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91676 Max :      21.83  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.16   235.78 meV Spearman : 0.89703 Max :    3534.94 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89736 Max :      42.42  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.63   227.94 meV Spearman : 0.90306 Max :    2369.81 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90321 Max :      28.44  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.39   222.74 meV Spearman : 0.91628 Max :    1810.21 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91665 Max :      21.72  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.10   235.62 meV Spearman : 0.89697 Max :    3548.96 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89730 Max :      42.59  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.44   227.91 meV Spearman : 0.90330 Max :    2351.91 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90346 Max :      28.22  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              347.90   222.74 meV Spearman : 0.91648 Max :    1805.68 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91684 Max :      21.67  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.33   235.71 meV Spearman : 0.89716 Max :    3536.87 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89749 Max :      42.44  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.47   227.80 meV Spearman : 0.90314 Max :    2347.78 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90330 Max :      28.17  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.11   222.65 meV Spearman : 0.91619 Max :    1812.83 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91655 Max :      21.75  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.30   235.72 meV Spearman : 0.89737 Max :    3558.45 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89770 Max :      42.70  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.41   227.58 meV Spearman : 0.90357 Max :    2354.55 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90373 Max :      28.25  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.26   222.74 meV Spearman : 0.91653 Max :    1816.12 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91690 Max :      21.79  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.44   235.69 meV Spearman : 0.89727 Max :    3570.44 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89761 Max :      42.85  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.59   227.83 meV Spearman : 0.90338 Max :    2346.45 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90354 Max :      28.16  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.41   222.81 meV Spearman : 0.91652 Max :    1814.74 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91688 Max :      21.78  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.26   235.72 meV Spearman : 0.89725 Max :    3547.23 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89758 Max :      42.57  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.90   227.88 meV Spearman : 0.90350 Max :    2363.52 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90365 Max :      28.36  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.09   222.86 meV Spearman : 0.91651 Max :    1801.04 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.31     2.38  eV Spearman : 0.91688 Max :      21.61  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.16   235.77 meV Spearman : 0.89691 Max :    3585.56 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89725 Max :      43.03  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.57   228.09 meV Spearman : 0.90305 Max :    2348.39 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.71     2.55  eV Spearman : 0.90321 Max :      28.18  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.46   223.08 meV Spearman : 0.91626 Max :    1814.49 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.39  eV Spearman : 0.91663 Max :      21.77  eV for C-159400-6859-1-ACC1rbY )
+
+ training:  training RMSE/MAE:             376.26   235.70 meV Spearman : 0.89701 Max :    3546.29 meV for C-35765-2949-1
+          ( training RMSE/MAE:               3.78     2.55  eV Spearman : 0.89735 Max :      42.56  eV for C-35765-2949-1 )
+
+ validation:validation RMSE/MAE:           352.72   228.04 meV Spearman : 0.90307 Max :    2352.31 meV for C-57730-9651-3
+          ( validation RMSE/MAE:             3.72     2.55  eV Spearman : 0.90323 Max :      28.23  eV for C-57730-9651-3 )
+
+ testing:   testing RMSE/MAE:              348.25   222.71 meV Spearman : 0.91632 Max :    1821.68 meV for C-159400-6859-1-ACC1rbY
+          ( testing RMSE/MAE:                3.32     2.38  eV Spearman : 0.91668 Max :      21.86  eV for C-159400-6859-1-ACC1rbY )
