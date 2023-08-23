@@ -17,4 +17,4 @@ Currently contained benchmarks:
 	- System: ScH<sub>12</sub> at 300 GPa
 - ZnC2N2:
 	- Potential: the potential used in section V.D of P. T. Salzbrenner *et al.*: Developments and Further Applications of Ephemeral Data Derived Potentials
-	- System: the lcs MOF
+	- System: the lcs MOF at 0 GPa
