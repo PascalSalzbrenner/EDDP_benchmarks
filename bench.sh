@@ -9,7 +9,7 @@ for i in *.tar.gz; do
 	cd $root
 
 	for cores in "$@"; do
-		run.sh $cores
+		./run.sh $cores
 	done
 
 	cd ..
