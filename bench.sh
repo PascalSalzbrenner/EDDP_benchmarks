@@ -6,11 +6,17 @@ for i in *.tar.gz; do
 	
 	root=${i%%.*}
 	tar -zxf $i
+
+	echo "Now doing" $root
+
 	cd $root
 
 	for cores in "$@"; do
+		echo $cores "core(s)"
 		./run.sh $cores
 	done
+
+	echo ""
 
 	cd ..
 
