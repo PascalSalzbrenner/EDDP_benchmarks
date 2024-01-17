@@ -5,7 +5,7 @@ num_runs=$1
 for i in `seq 1 $num_runs`; do
 		
 	# repackage output of previous runs	
-	for j in *.tar.gz; do
+	for j in `ls *.tar.gz`; do
 	
 		fileroot=${j%%.*}
 			
